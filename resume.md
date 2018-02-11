@@ -39,14 +39,14 @@ Education
 ---------
 
 ### Northeastern University
-<p class="time-range">September 2012--January 2014</p>
+<p class="time-range">September 2012--December 2013</p>
 
 - __Degree Program:__ 2 Courses Toward MS in Computer Science
 - __GPA:__ 4.0
 - __Coursework:__ Intensive Principles of Programming Languages, Engineering Reliable Software
 
 ### Brandeis University
-<p class="time-range">September 2009--January 2012</p>
+<p class="time-range">September 2009--May 2012</p>
 
 - __Degree Program:__ Computer Science, Mathematics
 - __GPA:__ 3.94
