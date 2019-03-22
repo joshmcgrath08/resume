@@ -2,7 +2,7 @@
 all: resume.html
 
 %.html: %.md %.min.css
-	pandoc -t html $< -o $@ --css $*.min.css -s --title "Josh McGrath's Resume" --email-obfuscation=javascript
+	pandoc -t html $< -o $@ --css $*.min.css -s --email-obfuscation=javascript --metadata pagetitle="Josh McGrath's Resume"
 
 .PRECIOUS: %.min.css
 %.min.css: %.less bootstrap
