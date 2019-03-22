@@ -2,7 +2,7 @@
 
 <p class="header">
 __JOSHUA M. MCGRATH__<br/>
-100 Frederick Ave<br/>
+31 Stanley Ave<br/>
 Medford, MA 02155<br/>
 (860) 501-1886<br/>
 [Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08)
@@ -11,14 +11,22 @@ Medford, MA 02155<br/>
 Experience
 ----------
 
+### Google
+<p class="work-title">Software Engineer</p>
+<p class="time-range">April 2018--Present</p>
+
+- Develop tools and user experience metrics to enable data driven decision making for Android UI features
+- Utilize languages including Java, Bash, Python, Javascript, and SQL
+
 ### Amazon.com
 <p class="work-title">Software Development Engineer II</p>
-<p class="time-range">September 2014--Present</p>
+<p class="time-range">September 2014--April 2018</p>
 
-- Develop full-stack solutions to support ground-truthing and ingestion of data for Alexa machine learning
-- Act as technical lead for team-scale projects, from requirements gathering and design to implementation and operational support
-- Utilize languages including Java, Javascript, and Python
-- Utilize AWS services including Redshift, DynamoDB, SQS, S3, and Kinesis
+- Developed full-stack solutions to support ground-truthing and ingestion of data for Alexa machine learning
+- Acted as technical lead for team-scale projects, from requirements gathering and design to implementation and operational support
+- Mentored and coached more junior engineers and reviewed designs within the team
+- Utilized languages including Java, Javascript, and Python
+- Utilized AWS services including Redshift, DynamoDB, SQS, S3, and Kinesis
 
 ### Northeastern University (CCIS)
 <p class="work-title">Research Engineer</p>
