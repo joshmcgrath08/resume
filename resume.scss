@@ -1,0 +1,23 @@
+@import 'bootstrap/scss/bootstrap';
+
+p {
+    margin-bottom: .5rem;
+}
+
+.header {
+    font-size: 1.5rem;
+    @extend .text-center;
+}
+
+h3 {
+    margin-top: 1rem;
+    @extend .text-info;
+}
+
+.work-title {
+    @extend .text-success;
+}
+
+.time-range {
+    @extend .text-muted;
+}
