@@ -2,23 +2,29 @@
 
 <p class="header">
 __JOSHUA M. MCGRATH__<br/>
-31 Stanley Ave<br/>
 Medford, MA 02155<br/>
 (860) 501-1886<br/>
-[Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08)
+[Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08), [Blog](https://joshmcgrath08.github.io/blog)
 </p>
 
-Experience
-----------
+## Experience
+
+### Smartsheet
+<p class="work-title">Principal Software Engineer</p>
+<p class="time-range">April 2019--October 2019</p>
+
+- Coached teams on modern development practices, devops, and ensuring technical work translates into customer value
+- Drove cultural change within engineering leadership in the Boston office
+- Helped develop technical and product strategy for scalability of core product
 
 ### Google
 <p class="work-title">Software Engineer</p>
-<p class="time-range">April 2018--Present</p>
+<p class="time-range">April 2018--April 2019</p>
 
-- Develop tools and user experience metrics to enable data-driven decision making for Android UI features
-- Utilize languages including Java, Bash, Python, Javascript, and SQL
+- Developed tools and user experience metrics to enable data-driven decision making for Android UI features
+- Utilized languages including Java, Bash, Python, Javascript, and SQL
 
-### Amazon.com
+### Amazon
 <p class="work-title">Software Development Engineer II</p>
 <p class="time-range">September 2014--April 2018</p>
 
@@ -43,8 +49,7 @@ Experience
 - Implemented tests, applications (e.g. in-memory file system), libraries (e.g. trie, printf), and OS components (e.g. buddy allocator, thread creation, IPC) in C-like language
 - Developed tools in Haskell, Python, Bash, and Make for speeding up development, simplifying workflows, and performing automated testing
 
-Education
----------
+## Education
 
 ### Northeastern University
 <p class="time-range">September 2012--December 2013</p>
