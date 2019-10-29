@@ -21,3 +21,19 @@ h3 {
 .time-range {
     @extend .text-muted;
 }
+
+body {
+    background: #d3d3d3;
+}
+
+.container {
+    background:#ffffff;
+    padding: 25px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1000px;
+        padding: 50px;
+    }
+}
