@@ -4,10 +4,14 @@
 __JOSHUA M. MCGRATH__<br/>
 Medford, MA 02155<br/>
 (860) 501-1886<br/>
-[Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08), [Blog](https://joshmcgrath08.github.io/blog)
+[LinkedIn](https://www.linkedin.com/in/josh-mcgrath-15719a64/), [Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08), [Blog](https://joshmcgrath08.github.io/blog)
 </p>
 
 ## Experience
+
+### HubSpot
+<p class="work-title">Staff Software Engineer</p>
+<p class="time-range">March 2020--Present</p>
 
 ### Smartsheet
 <p class="work-title">Principal Software Engineer</p>
@@ -48,6 +52,11 @@ Medford, MA 02155<br/>
 - SAFE was a clean slate design of a secure system (architecture through programming languages and operating system). See [the website](http://www.crash-safe.org/) for additional information
 - Implemented tests, applications (e.g. in-memory file system), libraries (e.g. trie, printf), and OS components (e.g. buddy allocator, thread creation, IPC) in C-like language
 - Developed tools in Haskell, Python, Bash, and Make for speeding up development, simplifying workflows, and performing automated testing
+
+## Projects
+
+- [BasicShare](https://basicshare.io) - a simple React application for sharing password-encrypted secrets
+- [OpenVPNOnEC2](https://github.com/joshmcgrath08/openvpn_on_ec2) - turnkey solution for setting up your own OpenVPN server on EC2 in 15 minutes
 
 ## Education
 
