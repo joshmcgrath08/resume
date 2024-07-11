@@ -5,3 +5,4 @@ josh_mcgrath_resume.pdf
 *.tmp
 *.map
 .sass-cache/
+*.css.inc
