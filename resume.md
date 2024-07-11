@@ -2,16 +2,25 @@
 
 <p class="header">
 __JOSHUA M. MCGRATH__<br/>
-Medford, MA 02155<br/>
-(860) 501-1886<br/>
-[LinkedIn](https://www.linkedin.com/in/josh-mcgrath-15719a64/), [Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08), [Blog](https://joshmcgrath08.github.io/blog)
+Maine, USA<br/>
+[LinkedIn](https://www.linkedin.com/in/josh-mcgrath-15719a64/), [Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08)
 </p>
+
+## Purpose
+
+Seeking part-time and contract opportunities to help establish high-performing, fun, and durable product engineering cultures at early-stage startups
 
 ## Experience
 
-### HubSpot
+### Aeqium
 <p class="work-title">Staff Software Engineer</p>
-<p class="time-range">March 2020--Present</p>
+<p class="time-range">March 2021--March 2024</p>
+
+- Second hire
+- Co-developed many core features with early customers including compensation cycles with custom inputs, user-configurable formulas, and lookups
+- Lead several process improvements from within the engineering team
+- Interviewed engineering candidates across coding, system design, and behavioral areas
+- Mentored engineers
 
 ### Smartsheet
 <p class="work-title">Principal Software Engineer</p>
@@ -53,25 +62,12 @@ Medford, MA 02155<br/>
 - Implemented tests, applications (e.g. in-memory file system), libraries (e.g. trie, printf), and OS components (e.g. buddy allocator, thread creation, IPC) in C-like language
 - Developed tools in Haskell, Python, Bash, and Make for speeding up development, simplifying workflows, and performing automated testing
 
-## Projects
-
-- [BasicShare](https://basicshare.io) - a simple React application for sharing password-encrypted secrets
-- [OpenVPNOnEC2](https://github.com/joshmcgrath08/openvpn_on_ec2) - turnkey solution for setting up your own OpenVPN server on EC2 in 15 minutes
-
 ## Education
-
-### Northeastern University
-<p class="time-range">September 2012--December 2013</p>
-
-- __Degree Program:__ 2 Courses Toward MS in Computer Science
-- __GPA:__ 4.0
-- __Coursework:__ Intensive Principles of Programming Languages, Engineering Reliable Software
 
 ### Brandeis University
 <p class="time-range">September 2009--May 2012</p>
 
 - __Degree Program:__ Computer Science, Mathematics
-- __GPA:__ 3.94
 - __Honors and Awards:__ Dean's List (all semesters), Phi Beta Kappa, Computer Science Prize for Outstanding Achievement
 
 </div>
