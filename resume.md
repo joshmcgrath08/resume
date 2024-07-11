@@ -10,6 +10,10 @@ Maine, USA<br/>
 
 Seeking part-time and contract opportunities to help establish high-performing, fun, and durable product engineering cultures at early-stage startups
 
+## Technologies
+
+AWS, GCP, Terraform, Python, FastAPI, PostgreSQL, Redis, Celery, SQLAlchemy, Javascript, TypeScript, React, Bash, Java, Kotlin, Haskell, SQL
+
 ## Experience
 
 ### Aeqium
