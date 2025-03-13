@@ -6,10 +6,6 @@ Maine, USA<br/>
 [LinkedIn](https://www.linkedin.com/in/josh-mcgrath-15719a64/), [Email](mailto:josh.mcgrath08+github-resume@gmail.com), [Github](https://github.com/joshmcgrath08)
 </p>
 
-## Purpose
-
-Seeking part-time and contract opportunities to help establish high-performing, fun, and durable product engineering cultures at early-stage startups
-
 ## Technologies
 
 AWS, GCP, Terraform, Python, FastAPI, PostgreSQL, Redis, Celery, SQLAlchemy, Javascript, TypeScript, React, Bash, Java, Kotlin, Haskell, SQL
